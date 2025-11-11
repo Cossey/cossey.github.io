@@ -8,3 +8,4 @@ plugins:
 nav_pages:
 - about.md
 - openhab.md
+- ai.md
