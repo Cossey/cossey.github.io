@@ -1,8 +1,6 @@
 ---
-title: openHAB
+title: Home Automation | Contributions
 ---
-openHAB is an open source smart home platform, built primarily in Java, that brings together devices, services, and technologies from different vendors into a single, flexible system.
-
 I’ve been using openHAB for over five years and actively contributing to its ecosystem. One of the key extension points in openHAB is its “bindings.” A binding is an add-on that integrates a specific device, service, or protocol into openHAB, exposing it as things and channels so it can be automated and controlled just like any other part of your smart home.
 
 Below are some of the bindings and contributions I’ve worked on.

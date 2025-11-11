@@ -7,5 +7,5 @@ plugins:
 
 nav_pages:
 - about.md
-- openhab.md
+- ha/index.md
 - ai.md
